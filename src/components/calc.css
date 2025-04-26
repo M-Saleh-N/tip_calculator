@@ -10,3 +10,20 @@ body {
     align-items: center;
   }
   
+  .main-tip {
+    background: white;
+    padding: 30px 40px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px;
+  }
+  
+  .main-tip h2 {
+    font-size: 24px;
+    color: #ff6f61;
+    margin-bottom: 20px;
+  }
+  
+
+  
