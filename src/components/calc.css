@@ -46,3 +46,17 @@ body {
     outline: none;
   }
   
+  .results {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .results div {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .results strong {
+    color: #ff6f61;
+  }
+  
